@@ -19,7 +19,7 @@
 | Stash | [https://raw.githubusercontent.com/zhangyongjie1997/wloc/refs/heads/main/modules/wloc.stoverride](https://raw.githubusercontent.com/zhangyongjie1997/wloc/refs/heads/main/modules/wloc.stoverride) |
 | Shadowrocket | [https://raw.githubusercontent.com/zhangyongjie1997/wloc/refs/heads/main/modules/wloc.module](https://raw.githubusercontent.com/zhangyongjie1997/wloc/refs/heads/main/modules/wloc.module) |
 
-选点页面：[https://wloc.333012.xyz/](https://wloc.333012.xyz/)。
+选点页面：[https://wloc-spoofer.zhangyongjie1997.workers.dev/](https://wloc-spoofer.zhangyongjie1997.workers.dev/)。
 
 [浏览源码](https://github.com/zhangyongjie1997/wloc) · [部署到 Cloudflare Workers](https://deploy.workers.cloudflare.com/?url=https://github.com/zhangyongjie1997/wloc/tree/main/worker)
 <!-- subscriptions:end -->
